@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/DanielMSchmidt/github-action-output-migration-tool/compare/v0.2.0...v0.2.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* fix release pipeline ([a1fb498](https://github.com/DanielMSchmidt/github-action-output-migration-tool/commit/a1fb4988704857583291c85b55aaf2b21a36896d))
+
 ## [0.2.0](https://github.com/DanielMSchmidt/github-action-output-migration-tool/compare/v0.1.0...v0.2.0) (2022-10-25)
 
 
